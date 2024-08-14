@@ -142,7 +142,7 @@ nav ul li a:hover::after {
     color: #c2ff3f;
 }
 .header-text h1:hover{
-    cursor: url(/images/cursorhover.png), auto;
+    cursor: url(/images/cursorhover.png), default;
     color: rgb(255, 255, 255);
     text-shadow: 1px -8px 3px rgb(254, 0, 0);
 }
