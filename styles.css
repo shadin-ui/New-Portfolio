@@ -16,7 +16,7 @@ body {
     background: linear-gradient(215deg, rgb(18, 0, 39), rgb(3, 0, 22), rgb(3, 0, 17), rgb(9, 0, 44), rgb(0, 0, 45));
     /* background: #04000b; */
     /* color: #c2ff3f; */
-    cursor: url(/images/cursormain.png), auto;
+    cursor: url(./images/cursormain.png), auto;
 }
 
 #header {
